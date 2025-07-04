@@ -252,10 +252,13 @@
         "labelType": "string",
         "domId": "flowchart-G5-27",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Python",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "python"
       }
     ],
     [
@@ -265,10 +268,13 @@
         "labelType": "string",
         "domId": "flowchart-G6-28",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Go",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "go"
       }
     ],
     [
@@ -278,10 +284,13 @@
         "labelType": "string",
         "domId": "flowchart-G7-29",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "ELM",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "elm"
       }
     ],
     [
@@ -291,10 +300,13 @@
         "labelType": "string",
         "domId": "flowchart-G8-30",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": ".NET, C#",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "NET-CSharp"
       }
     ],
     [
@@ -304,10 +316,13 @@
         "labelType": "string",
         "domId": "flowchart-G9-31",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "C",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "C"
       }
     ],
     [
@@ -317,10 +332,13 @@
         "labelType": "string",
         "domId": "flowchart-G10-32",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Elixir",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "elixir"
       }
     ],
     [
@@ -330,10 +348,13 @@
         "labelType": "string",
         "domId": "flowchart-G11-33",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Kotlin",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "kotlin"
       }
     ],
     [
@@ -356,10 +377,13 @@
         "labelType": "string",
         "domId": "flowchart-AB1-37",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Solutions",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "liveData/nativeCardanoLibrariesAndAPIs"
       }
     ],
     [
@@ -395,10 +419,13 @@
         "labelType": "string",
         "domId": "flowchart-AB3-43",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Data Completeness - Ledger State",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "dataCompletness-LedgerState"
       }
     ],
     [
@@ -408,10 +435,13 @@
         "labelType": "string",
         "domId": "flowchart-AB4-44",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Data API Acess",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "APIAccess"
       }
     ],
     [
@@ -421,10 +451,13 @@
         "labelType": "string",
         "domId": "flowchart-AB5-45",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Lightweight",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "lightweight"
       }
     ],
     [
@@ -434,10 +467,13 @@
         "labelType": "string",
         "domId": "flowchart-AB6-46",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Selective / Custom / Scope Indexing",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "customIndex"
       }
     ],
     [
@@ -447,10 +483,13 @@
         "labelType": "string",
         "domId": "flowchart-AB7-47",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Aggregated data",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "aggregatedData"
       }
     ],
     [
@@ -460,10 +499,13 @@
         "labelType": "string",
         "domId": "flowchart-AB8-48",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Cardano data in CBOR format",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "cardanoDatainCBORFormat"
       }
     ],
     [
@@ -473,10 +515,13 @@
         "labelType": "string",
         "domId": "flowchart-AB9-49",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Modular architecture",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "modularArchitecture"
       }
     ],
     [
@@ -486,10 +531,13 @@
         "labelType": "string",
         "domId": "flowchart-AB10-50",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Fast Sync",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "fastSync"
       }
     ],
     [
@@ -499,10 +547,13 @@
         "labelType": "string",
         "domId": "flowchart-AB11-51",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Scalable",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "scalable"
       }
     ],
     [
@@ -512,10 +563,13 @@
         "labelType": "string",
         "domId": "flowchart-AB12-52",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Docker availability",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "dockerAvailability"
       }
     ],
     [
@@ -551,10 +605,13 @@
         "labelType": "string",
         "domId": "flowchart-AD36-56",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "PotgresSQL",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "databaseTechnology/PostgreSQL"
       }
     ],
     [
@@ -564,10 +621,13 @@
         "labelType": "string",
         "domId": "flowchart-AD37-57",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "MySQL",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "databaseTechnology/MySQL"
       }
     ],
     [
@@ -577,10 +637,13 @@
         "labelType": "string",
         "domId": "flowchart-AD38-58",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "SQLite",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "databaseTechnology/SQLite"
       }
     ],
     [
@@ -590,10 +653,13 @@
         "labelType": "string",
         "domId": "flowchart-AD39-59",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "H2",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "databaseTechnology/H2"
       }
     ],
     [
@@ -603,10 +669,13 @@
         "labelType": "string",
         "domId": "flowchart-AD40-60",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Redis",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "databaseTechnology/redis"
       }
     ],
     [
@@ -616,10 +685,13 @@
         "labelType": "string",
         "domId": "flowchart-AE9-62",
         "styles": [],
-        "classes": [],
+        "classes": [
+          "clickable"
+        ],
         "text": "Spring Boots",
         "type": "square",
-        "props": {}
+        "props": {},
+        "link": "streamingTechnology/springBoot"
       }
     ]
   ],
@@ -640,7 +712,7 @@
       "start": "B1",
       "end": "C1",
       "type": "arrow_point",
-      "text": "YES",
+      "text": "YES - I know what I want to build",
       "labelType": "text",
       "classes": [],
       "isUserDefinedId": false,
@@ -652,7 +724,7 @@
       "start": "B1",
       "end": "C2",
       "type": "arrow_point",
-      "text": "NO",
+      "text": "NO - I'm exploring",
       "labelType": "text",
       "classes": [],
       "isUserDefinedId": false,
@@ -664,7 +736,7 @@
       "start": "B1",
       "end": "C3",
       "type": "arrow_point",
-      "text": "NOT SURE",
+      "text": "NOT SURE - I have an idea and want to focus on coding",
       "labelType": "text",
       "classes": [],
       "isUserDefinedId": false,
@@ -1165,5 +1237,5 @@
       "id": "L_AB14_AE9_0"
     }
   ],
-  "__generatedAt": 1751556375087
+  "__generatedAt": 1751621042409
 }
