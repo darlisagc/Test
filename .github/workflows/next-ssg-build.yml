@@ -3,7 +3,7 @@ name: Build and Export Next.js SSG
 on:
   push:
     branches:
-      - main
+      - clean-main
 
 jobs:
   build:
